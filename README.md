@@ -8,4 +8,4 @@
 > Krnl - [Invite](https://krnl.place/invite)<br/>
 ![krnl](https://img.shields.io/static/v1?label=Development%20Role&message=Main%20Developer&color=ff69b4)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/879040988285370429)](https://discord.com/users/879040988285370429)
+<!--[![Discord Presence](https://lanyard.cnrad.dev/api/879040988285370429)](https://discord.com/users/879040988285370429)-->
