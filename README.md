@@ -10,4 +10,3 @@
 <!--  -->
 <!--[![Discord Presence](https://lanyard.cnrad.dev/api/879040988285370429)](https://discord.com/users/879040988285370429)-->
 <!--  -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MUQfKFzIOeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
